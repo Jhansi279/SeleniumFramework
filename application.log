@@ -1,0 +1,7 @@
+2018-09-19 22:33:01,846  INFO [main] Log4jTest:29 - StUp method
+2018-09-19 22:33:14,542  INFO [main] Log4jTest:29 - StUp method
+2018-09-19 22:33:14,545  INFO [main] Log4jTest:34 - loginPageTiltleTest method
+2018-09-19 22:33:14,546  INFO [main] Log4jTest:35 - Info
+2018-09-19 22:33:14,547 DEBUG [main] Log4jTest:36 - debug
+2018-09-19 22:33:14,547  WARN [main] Log4jTest:37 - warn
+2018-09-19 22:33:14,548 ERROR [main] Log4jTest:38 - error
